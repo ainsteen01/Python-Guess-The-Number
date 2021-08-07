@@ -2,15 +2,11 @@
 import os
 import time
 import random
-
 from google.colab import output
-
- print (f"""\rScore = {scr}                                  Life  = {life}
+print (f"""\rScore = {scr}                                  Life  = {life}
 """)
  lvl=5
 while life > 0:
-    
-    
     print (" ---- Enter a Number between 1 and " , lvl)
     ai = random.randint(1,lvl)
    # print(ai)
