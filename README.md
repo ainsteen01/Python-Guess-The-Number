@@ -1,4 +1,5 @@
-# Python-Project
+# Python-Guess The Number.
+# Try in Google colab Notebook..
 import os
 import time
 import random
